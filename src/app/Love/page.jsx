@@ -18,7 +18,7 @@ export default function Page() {
     "Tava neatlaidība pat, kad paliek smagi.",
     "Tava spēja izrunāt problēmas.",
     "Dzīvot ar tevi ir ka nepartraukts piedzīvojums.",
-    "Tavs smaids un smiekli",
+    "Tas, ka tu nekad neļauj nevienam pārspēt tevi.",
     "Tavi mazie mood swings, vienā brīdī sad nākamajā party.",
     "Tava dzīves gudrība",
     "Tas, ka tu vienmār esi tu pati.",
